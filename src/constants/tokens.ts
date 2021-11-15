@@ -46,7 +46,6 @@ export const WETH9: TokenMap = {
   [ChainId.HARMONY]: new Token(ChainId.HARMONY, WETH9_ADDRESS[ChainId.HARMONY], 18, 'WETH', 'Wrapped Ether'),
   [ChainId.XDAI]: new Token(ChainId.XDAI, WETH9_ADDRESS[ChainId.XDAI], 18, 'WETH', 'Wrapped Ether'),
   [ChainId.AVALANCHE]: new Token(ChainId.AVALANCHE, WETH9_ADDRESS[ChainId.AVALANCHE], 18, 'WETH', 'Wrapped Ether'),
-  [ChainId.PALM]: new Token(ChainId.PALM, WETH9_ADDRESS[ChainId.PALM], 18, 'WETH', 'Wrapped Ether'),
 }
 
 export const WNATIVE: TokenMap = {
