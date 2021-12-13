@@ -1,3 +1,3 @@
 module.exports = {
-  ...require("@sushiswap/prettier-config").default
-};
+  ...require('@sushiswap/prettier-config').default,
+}
