@@ -1,8 +1,8 @@
-# Sushiswap SDK
+# ReactSwap SDK
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for sushiswap is  `0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for reactswap is  `0x107143bce537a2bd50c98303bf2ddb36396d0f8d` (ropsten testnet).
 
 ## Running tests
 
@@ -11,13 +11,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/sushiswap/sushiswap-sdk.git
+git clone https://github.com/stabilitydao/reactswap-sdk.git
 ```
 
-Move into the sushiswap-sdk working directory
+Move into the reactswap-sdk working directory
 
 ```sh
-cd sushiswap-sdk/
+cd reactswap-sdk/
 ```
 
 Install dependencies
