@@ -1,7 +1,7 @@
 {
   "name": "@reactswap/sdk",
   "license": "MIT",
-  "version": "1.0.0-develop.0",
+  "version": "1.0.0-develop.1",
   "description": "🛠 An SDK for building applications on top of ReactSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
